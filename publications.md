@@ -13,12 +13,10 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification
-</strong><br />
+          <strong>Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification</strong><br />
           Si Wu, <b>Jichang Li</b>, Cheng Liu, Zhiwen Yu, Hau-San Wong<br />
-          I am the Major Contributor<br /> Si Wu is my advisor <br />
-          conference paper<br />
-          Accepted by The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019 <b>Oral</b>)<br />
+          I am the <b>Major Contributor</b>, Si Wu is my advisor <br />
+          <b>Conference</b> Accepted by The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019 <b>Oral</b>)<br />
           <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Mutual_Learning_of_Complementary_Networks_via_Residual_Correction_for_Improving_CVPR_2019_paper.html">[PDF]</a> <a href="None">[CODE]</a><br />
        </p>
     </div>
@@ -27,11 +25,9 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Enhancing TripleGAN for Semi-Supervised Conditional Instance Synthesis and Classification
-</strong><br />
-           Si Wu, Guangchang Deng, <b>Jichang Li</b>, Rui Li, Zhiwen Yu, and Hau-San Wong<br />
-          conference paper<br />
-          Accepted by The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019)<br />
+          <strong>Enhancing TripleGAN for Semi-Supervised Conditional Instance Synthesis and Classification</strong><br />
+          Si Wu, Guangchang Deng, <b>Jichang Li</b>, Rui Li, Zhiwen Yu, and Hau-San Wong<br />
+          <b>Conference</b> Accepted by The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019)<br />
           <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.html">[PDF]</a><br />
        </p>
     </div>
@@ -41,11 +37,9 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss
-</strong><br />
-           Luoqin Li, Jiabing Wang, <b>Jichang Li</b>, Qianli Ma, and Jia Wei<br />
-          jounal paper<br />
-           Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP2019)<br />
+          <strong>Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss</strong><br />
+          Luoqin Li, Jiabing Wang, <b>Jichang Li</b>, Qianli Ma, and Jia Wei<br />
+          <b>Jounal</b> Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP2019)<br />
           <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.html">[PDF]</a><br />
        </p>
     </div>
@@ -54,12 +48,9 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration
-</strong><br />
-           <b>Jichang Li</b>, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong<br />
-          jounal paper<br />
-            
-          Accepted by IEEE Transaction on Image Processing(TIP2019)<br />
+          <strong>Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration</strong><br />
+          <b>Jichang Li</b>, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong<br />
+          <b>Jounal</b>Accepted by IEEE Transaction on Image Processing(TIP2019)<br />
        </p>
     </div>
 </div>
