@@ -3,151 +3,63 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZPcAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=5d1rSEEAAAAJ" target="_blank">Google Scholar profile</a>.
 <br />
 
 <h3>
     <a name='2019'></a> 2019
 </h3>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
+          <strong>Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification
 </strong><br />
-          Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/Regional-Homogeneity">[CODE]</a><br />
+          Si Wu, <b>Jichang Li</b>, Cheng Liu, Zhiwen Yu, Hau-San Wong<br />
+          I am the Major Contributor<br /> Si Wu is my advisor <br />
+          conference paper<br />
+          Accepted by The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019 <b>Oral</b>)<br />
+          <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Mutual_Learning_of_Complementary_Networks_via_Residual_Correction_for_Improving_CVPR_2019_paper.html">[PDF]</a> <a href="None">[CODE]</a><br />
        </p>
     </div>
 </div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Learning Transferable Adversarial Examples via Ghost Networks</strong><br />
-          Yingwei Li, Song Bai, Yuyin Zhou, <b>Cihang Xie</b>, Zhishuai Zhang, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/ghost-network">[CODE]</a><br />
+          <strong>Enhancing TripleGAN for Semi-Supervised Conditional Instance Synthesis and Classification
+</strong><br />
+           Si Wu, Guangchang Deng, <b>Jichang Li</b>, Rui Li, Zhiwen Yu, and Hau-San Wong<br />
+          conference paper<br />
+          Accepted by The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019)<br />
+          <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.html">[PDF]</a><br />
        </p>
     </div>
 </div>
+
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Feature Denoising for Improving Adversarial Robustness</strong><br />
-          <b>Cihang Xie</b>, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
-          This work ranked <b>No.1</b> in the adversarial defense track of <a href="http://hof.geekpwn.org/caad/en/index.html">CAAD 2018 Challenge</a><br />
-          <a href="https://arxiv.org/pdf/1812.03411.pdf">[PDF]</a> <a href="https://github.com/facebookresearch/ImageNet-Adversarial-Training">[CODE]</a><br />
+          <strong>Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss
+</strong><br />
+           Luoqin Li, Jiabing Wang, <b>Jichang Li</b>, Qianli Ma, and Jia Wei<br />
+          jounal paper<br />
+           Accepted by IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP2019)<br />
+          <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.html">[PDF]</a><br />
        </p>
     </div>
 </div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Improving Transferability of Adversarial Examples with Input Diversity</strong><br />
-          <b>Cihang Xie</b>, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
-          <a href="https://arxiv.org/pdf/1803.06978.pdf">[PDF]</a> <a href="https://github.com/cihangxie/DI-2-FGSM">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<h3>
-    <a name='2018'></a> 2018
-</h3>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Single-Shot Object Detection with Enriched Semantics</strong><br />
-          Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018<br />
-          <a href="https://arxiv.org/pdf/1712.00433.pdf">[PDF]</a> <a href="https://github.com/bairdzhang/des">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion</strong><br />
-          Zhishuai Zhang, <b>Cihang Xie</b>, Jianyu Wang, Lingxi Xie, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018<br />
-          <a href="https://arxiv.org/pdf/1709.04577.pdf">[PDF]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Mitigating Adversarial Effects Through Randomization</strong><br />
-          <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille<br />
-          International Conference on Learning Representations (<strong>ICLR</strong>), 2018<br />
-          This work ranked <b>No.2</b> in the adversarial defense track of <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">NIPS 2017 Challenge</a> <br />
-          <a href="https://arxiv.org/pdf/1711.01991.pdf">[PDF]</a> <a href="https://github.com/cihangxie/NIPS2017_adv_challenge_defense">[CODE]</a> <a href="https://github.com/cihangxie/cihangxie.github.io/blob/master/NIPS_ADV.pdf">[SLIDES]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Adversarial Attacks and Defences Competition</strong><br />
-          Alexey Kurakin, Ian Goodfellow, Samy Bengio, Yinpeng Dong, Fangzhou Liao, Ming Liang, Tianyu Pang, Jun Zhu, Xiaolin Hu, <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille, Sangxia Huang, Yao Zhao, Yuzhe Zhao, Zhonglin Han, Junjiajia Long, Yerkebulan Berdibekov, Takuya Akiba, Seiya Tokui, Motoki Abe<br />
-          The NIPS 17 Competition Building Intelligent Systems, Springer International Publishing, 2018<br />
-          <a href="https://arxiv.org/pdf/1804.00097.pdf">[PDF]</a> <a href="https://www.kaggle.com/c/nips-2017-defense-against-adversarial-attack">[WEBSITE]</a><br />
-       </p>
-    </div>
-</div> 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Visual Concepts and Compositional Voting</strong><br />
-          Jianyu Wang, Zhishual Zhang, <b>Cihang Xie</b>, Yuyin Zhou, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille<br />
-          Annals of Mathematical Sciences and Applications, 2018<br />
-          <a href="https://arxiv.org/pdf/1711.04451.pdf">[PDF]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Technical Report on the CleverHans v2.1.0 Adversarial Examples Library</strong><br />
-          Nicolas Papernot, Fartash Faghri, Nicholas Carlini, Ian Goodfellow, Reuben Feinman, Alexey Kurakin, <b>Cihang Xie</b>, Yash Sharma, Tom Brown, Aurko Roy, Alexander Matyasko, Vahid Behzadan, Karen Hambardzumyan, Zhishuai Zhang, Yi-Lin Juang, Zhi Li, Ryan Sheatsley, Abhibhav Garg, Jonathan Uesato, Willi Gierke, Yinpeng Dong, David Berthelot, Paul Hendricks, Jonas Rauber, Rujun Long, Patrick McDaniel<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1610.00768.pdf">[PDF]</a> <a href="https://github.com/tensorflow/cleverhans">[CODE]</a><br />
-       </p>
-    </div>
-</div>
-<h3>
-    <a name='2017'></a> 2017
-</h3>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Adversarial Examples for Semantic Segmentation and Object Detection</strong><br />
-          <b>Cihang Xie</b>, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille<br />
-          IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2017<br />
-          <a href="https://arxiv.org/pdf/1703.08603.pdf">[PDF]</a> <a href="https://github.com/cihangxie/DAG">[CODE]</a> <a href="https://github.com/cihangxie/cihangxie.github.io/blob/master/DAG.pdf">[SLIDES]</a><br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Detecting Semantic Parts on Partially Occluded Objects</strong><br />
-          Jianyu Wang, <b>Cihang Xie</b>, Zhishuai Zhang, Jun Zhu, Lingxi Xie, Alan Yuille<br />
-          British Machine Vision Conference (<strong>BMVC</strong>), 2017<br />
-          <a href="https://arxiv.org/pdf/1707.07819.pdf">[PDF]</a><br />
-       </p>
-    </div>
-</div> 
-<h3>
-    <a name='2016'></a> 2016
-</h3>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Unsupervised learning of object semantic parts from internal states of CNNs by population encoding</strong><br />
-          Jianyu Wang, Zhishuai Zhang, <b>Cihang Xie</b>, Vittal Premachandran, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1511.06855.pdf">[PDF]</a><br />
+          <strong>Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration
+</strong><br />
+           <b>Jichang Li</b>, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong<br />
+          jounal paper<br />
+            
+          Accepted by IEEE Transaction on Image Processing(TIP2019)<br />
        </p>
     </div>
 </div>
