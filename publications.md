@@ -53,7 +53,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
           <strong>Relation Classification via Keyword-Attentive Sentence Mechanism and Synthetic Stimulation Loss</strong><br />
           Luoqin Li, Jiabing Wang, <b>Jichang Li</b>, Qianli Ma, and Jia Wei<br />
           IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP2019)<br />
-          <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.html">[PDF]</a><br />
+          <a href="https://ieeexplore.ieee.org/abstract/document/8733064">[PDF]</a><br />
        </p>
     </div>
 </div>
