@@ -8,7 +8,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 
 
 <h3>
-    <a name='Conference'></a>
+    <a name='Conference'></a>Conference
 </h3>
 
 <div class="media">
@@ -34,7 +34,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 </div>
 
 <h3>
-    <a name='Jounal'></a>
+    <a name='Jounal'></a>Jounal
 </h3>
 
 <div class="media">
