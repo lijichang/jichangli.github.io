@@ -34,7 +34,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 </div>
 
 <h3>
-    <a name='Jounal'></a>Jounal
+    <a name='Journal'></a>Jounal
 </h3>
 
 <div class="media">
