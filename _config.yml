@@ -41,9 +41,10 @@ avatar: "/img/lijichang.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jichang LI
-  email: "li.jichang@qq.com"
-  github: lijichang    # eg. daattali
   email: "gz.lijichang@gmail.com"
+  github: lijichang    # eg. daattali
+  email: "li.jichang@qq.com"
+  
 
 # Select which links to show in the footer
 footer-links-active:
@@ -143,7 +144,7 @@ prose:
   rooturl: '_posts'
   media: 'img'
   ignore:
-    - 404.html
+    - index.html #404.html
     - LICENSE
     - feed.xml
     - _config.yml
