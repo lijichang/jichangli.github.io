@@ -43,6 +43,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
           <strong>Semi-Supervised Deep Coupled Ensemble Learning with Classiﬁcation Landmark Exploration</strong><br />
           <b>Jichang Li</b>, Si Wu, Cheng Liu, Zhiwen Yu, and Hau-San Wong<br />
           IEEE Transaction on Image Processing(TIP2019)<br />
+           <a href="https://ieeexplore.ieee.org/abstract/document/8796363">[PDF]</a><br />
        </p>
     </div>
 </div>
