@@ -17,7 +17,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
     <div class="media-body">
        <p class="media-heading">
           <strong>Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation</strong><br />
-          Jichang Li, Guanbin Li, and Yizhou Yu<br />
+          <b>Jichang Li</b>, Guanbin Li, and Yizhou Yu<br />
           The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2021)<br />
           <a href="">[PDF]</a><a href="https://github.com/lijichang/CVPR2021-SSDA">[CODE]</a><br />
        </p>
