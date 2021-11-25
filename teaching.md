@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 <h3>
-    <a name='Teaching Assistant (TA)'></a>Teaching Assistant(TA)
+    <a name='Teaching Assistant (TA)'></a>Teaching Assistant (TA)
 </h3>
 
 
