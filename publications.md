@@ -12,6 +12,15 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
     <a name='Conference'></a>Conference
 </h3>
 
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Neighborhood Collective Estimation for Noisy Label Identification and Correction</strong><br />
+          <b>Jichang Li</b>, Guanbin Li, Feng Liu, and Yizhou Yu<br />
+          European Conference on Computer Vision 2022 (ECCV2022)<br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
