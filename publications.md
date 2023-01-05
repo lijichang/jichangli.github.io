@@ -18,7 +18,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
           <strong>Neighborhood Collective Estimation for Noisy Label Identification and Correction</strong><br />
           <b>Jichang Li</b>, Guanbin Li, Feng Liu, and Yizhou Yu<br />
           European Conference on Computer Vision 2022 (ECCV2022)<br /> 
-          <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf">[PDF]</a><a href="https://arxiv.org/abs/2208.03207">[Arxiv]</a><a href="https://github.com/lijichang/LNL-NCE">[CODE]</a><a href="[https://github.com/lijichang/LNL-NCE">[CODE]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf)">[SUPP])</a><br />
+          <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf">[PDF]</a><a href="https://arxiv.org/abs/2208.03207">[Arxiv]</a><a href="https://github.com/lijichang/LNL-NCE">[CODE]</a><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf)">[SUPP])</a><br />
        </p>
     </div>
 </div>
