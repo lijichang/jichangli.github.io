@@ -13,7 +13,8 @@ title: Others
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          **Conferences** CVPR2023.
+          **Conferences** 
+           CVPR2023.
        </p>
     </div>
 </div>
@@ -21,7 +22,8 @@ title: Others
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          **Journals** TVCJ2022.
+          **Journals** 
+           TVCJ2022.
        </p>
     </div>
 </div>
