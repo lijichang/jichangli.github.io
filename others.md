@@ -10,11 +10,9 @@ title: Others
 
 ### Reviewer for:
 
-**Conferences**  
-CVPR2023.
+**Conferences**  CVPR2023.
 
-**Journals**  
-TVCJ2022.
+**Journals**  TVCJ2022.
 
 
 <h3>
