@@ -10,23 +10,11 @@ title: Others
 
 **Reviewer for:**
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          **Conferences** 
-           CVPR2023.
-       </p>
-    </div>
-</div>
+**Conferences**  
+CVPR2023.
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          **Journals** 
-           TVCJ2022.
-       </p>
-    </div>
-</div>
+**Journals**  
+TVCJ2022.
 
 
 <h3>
