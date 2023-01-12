@@ -8,8 +8,9 @@ title: Others
     <a name='Professional Service'></a>Teaching Assistant (TA)
 </h3>
 
-Reviewer for:
-CVPR2023.
+**Reviewer for:**
+Conferences - CVPR2023.
+Journals - TVCJ2022.
 
 <h3>
     <a name='Teaching Assistant (TA)'></a>Teaching Assistant (TA)
