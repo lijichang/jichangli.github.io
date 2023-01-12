@@ -9,8 +9,23 @@ title: Others
 </h3>
 
 **Reviewer for:**
-Conferences - CVPR2023.
-Journals - TVCJ2022.
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          **Conferences** CVPR2023.
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          **Journals** TVCJ2022.
+       </p>
+    </div>
+</div>
+
 
 <h3>
     <a name='Teaching Assistant (TA)'></a>Teaching Assistant (TA)
