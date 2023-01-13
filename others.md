@@ -8,11 +8,7 @@ title: Others
     <a name='Professional Service'></a>Teaching Assistant (TA)
 </h3>
 
-#### Reviewer for:
-
-**Conferences**  CVPR2023.
-
-**Journals**  TVCJ2022.
+**Reviewer for:** CVPR2023, TVCJ.
 
 
 <h3>
