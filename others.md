@@ -18,7 +18,7 @@ title: Others
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          COMP3278B Introduction to Database Management Systems (BBA IS), HKUCS, Sem 2st 2022-2023.
+          COMP3278B Introduction to Database Management Systems (BBA IS), HKUCS, Sem 2nd 2022-2023.
        </p>
     </div>
 </div>
