@@ -5,7 +5,7 @@ title: Others
 
 
 <h3>
-    <a name='Professional Service'></a>Teaching Assistant (TA)
+    <a name='Professional Service'></a>Professional Service
 </h3>
 
 **Reviewer for:** CVPR2023, TVCJ.
