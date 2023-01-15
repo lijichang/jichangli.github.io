@@ -8,7 +8,8 @@ title: Others
     <a name='Professional Service'></a>Professional Service
 </h3>
 
-**Reviewer for:** CVPR2023, TVCJ.
+- Conference reviewer CVPR2023.
+- Journal reviewer TVCJ.
 
 
 <h3>
