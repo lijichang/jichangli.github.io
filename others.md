@@ -8,7 +8,7 @@ title: Others
     <a name='Professional Service'></a>Professional Service
 </h3>
 
-- Conference reviewer: CVPR2023.
+- Conference reviewer: BMVC2023, CVPR2023.
 - Journal reviewer: TVCJ.
 
 
