@@ -19,30 +19,6 @@ TVCJ.
 </h3>
 
 - Teaching Assistant (TA):  
-COMP3278B Introduction to database management systems (BBA IS), HKUCS, Sem 2nd 2022-2023.  
-COMP7404 Computational intelligence and machine learning [Section 1B, 2021], HKUCS, Sem 1st 2021-2022.  
-ENGG1330 Computer programming I, HKUCS, Sem 1st 2020-2021.
-
-<!-- <div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          COMP3278B Introduction to database management systems (BBA IS), HKUCS, Sem 2nd 2022-2023.
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          COMP7404 Computational intelligence and machine learning [Section 1B, 2021], HKUCS, Sem 1st 2021-2022.
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          ENGG1330 Computer programming I, HKUCS, Sem 1st 2020-2021.
-       </p>
-    </div>
-</div> -->
+COMP3278B, Introduction to database management systems (BBA IS), HKUCS, Sem 2nd 2022-2023.  
+COMP7404, Computational intelligence and machine learning [Section 1B, 2021], HKUCS, Sem 1st 2021-2022.  
+ENGG1330, Computer programming I, HKUCS, Sem 1st 2020-2021.
