@@ -13,8 +13,11 @@ title: Others
 
 
 <h3>
-    <a name='Teaching Assistant (TA)'></a>Teaching Assistant (TA)
+    <a name='Experience'></a>Teaching Assistant (TA)
 </h3>
+
+- Teaching Assistant (TA): 
+-- COMP3278B Introduction to database management systems (BBA IS), HKUCS, Sem 2nd 2022-2023.
 
 <div class="media">
     <div class="media-body">
