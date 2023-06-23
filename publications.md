@@ -14,9 +14,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation</strong><br />
+          <strong>Divide and Adapt: Active Domain Adaptation via Customized Learning</strong><br />
           Duojun Huang, <b>Jichang Li</b>, Weikai Chen, Junshi Huang, Zhenhua Chai, and Guanbin Li<br />
-          The IEEE Conference on Computer Vision and Pattern Recognition, 2023(CVPR2023)<br />
+          The IEEE Conference on Computer Vision and Pattern Recognition, 2023(CVPR2023 <b>Highlight</b>b>)<br />
           <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf">[PDF]</a>
            <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Huang_Divide_and_Adapt_CVPR_2023_supplemental.pdf">[SUPP]</a>
            <a href="https://github.com/starchaser49/DiaNA-CVPR2023">[CODE]</a><br />
