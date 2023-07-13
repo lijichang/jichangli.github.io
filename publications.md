@@ -24,6 +24,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
     </div>
 </div>
 
+
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -43,7 +45,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
           <strong>Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation</strong><br />
           <b>Jichang Li</b>, Guanbin Li, Yemin Shi, and Yizhou Yu<br />
           The IEEE Conference on Computer Vision and Pattern Recognition, 2021 (CVPR2021)<br />
-          <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html">[PDF]</a><a href="https://arxiv.org/abs/2104.09415">[Arxiv]</a><a href="https://github.com/lijichang/CVPR2021-SSDA">[CODE]</a><br />
+          <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.html">[PDF]</a>
+           <a href="https://arxiv.org/abs/2104.09415">[Arxiv]</a>
+           <a href="https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_Cross-Domain_Adaptive_Clustering_CVPR_2021_supplemental.pdf">[SUPP]</a>
+           <a href="https://github.com/lijichang/CVPR2021-SSDA">[CODE]</a><br />
        </p>
     </div>
 </div>
@@ -53,7 +58,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
     <div class="media-body">
        <p class="media-heading">
           <strong>Mutual Learning of Complementary Networks via Residual Correction for Improving Semi-Supervised Classification</strong><br />
-          Si Wu, <b>Jichang Li</b> (#Major contribution), Cheng Liu, Zhiwen Yu, and Hau-San Wong<br />
+          Si Wu, <b>Jichang Li</b> (# major contribution), Cheng Liu, Zhiwen Yu, and Hau-San Wong<br />
           The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019 <b>Oral</b>)<br />
           <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Mutual_Learning_of_Complementary_Networks_via_Residual_Correction_for_Improving_CVPR_2019_paper.pdf">[PDF]</a><br />
        </p>
