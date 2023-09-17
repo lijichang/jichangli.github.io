@@ -77,7 +77,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
           The IEEE Conference on Computer Vision and Pattern Recognition, 2019 (CVPR2019)<br />
           <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Enhancing_TripleGAN_for_Semi-Supervised_Conditional_Instance_Synthesis_and_Classification_CVPR_2019_paper.pdf">[PDF]</a>
           <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NopnGpzu2EsJ:scholar.google.com/&output=citation&scisdr=ClGCG90DEI7P8qHHbVY:AFWwaeYAAAAAZQbBdVaZ1RTStrX1l4IrjZ_L9fQ&scisig=AFWwaeYAAAAAZQbBddml7s1pOfMc5aUSiGwAZKg&scisf=4&ct=citation&cd=-1&hl=en">[BibTex]</a><br />
-           
        </p>
     </div>
 </div>
