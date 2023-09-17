@@ -20,6 +20,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
           <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf">[PDF]</a>
            <a href="https://openaccess.thecvf.com/content/CVPR2023/supplemental/Huang_Divide_and_Adapt_CVPR_2023_supplemental.pdf">[SUPP]</a>
            <a href="https://github.com/starchaser49/DiaNA-CVPR2023">[CODE]</a><br />
+           <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:INuIaIO5Ma8J:scholar.google.com/&output=citation&scisdr=ClGCG90DEI7P8qHHJa0:AFWwaeYAAAAAZQbBPa2DFHxh1vtRFS-jcoRnnd8&scisig=AFWwaeYAAAAAZQbBPczALgCwjxDlcZq084ftvVM&scisf=4&ct=citation&cd=-1&hl=en">[BibTex]</a><br />
        </p>
     </div>
 </div>
@@ -33,6 +34,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
           <b>Jichang Li</b>, Guanbin Li, Feng Liu, and Yizhou Yu<br />
           European Conference on Computer Vision 2022 (ECCV2022)<br /> 
           <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126.pdf">[PDF]</a><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840126-supp.pdf">[SUPP]</a><a href="https://arxiv.org/abs/2208.03207">[Arxiv]</a><a href="https://github.com/lijichang/LNL-NCE">[CODE]</a><br />
+           <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:W7pOhHhsgLUJ:scholar.google.com/&output=citation&scisdr=ClGCG90DEI7P8qHHVo0:AFWwaeYAAAAAZQbBTo0ObfBPOV_ebBMcUKXLh0Y&scisig=AFWwaeYAAAAAZQbBTqLr5h8-N6r2D_kxNLLZboE&scisf=4&ct=citation&cd=-1&hl=en">[BibTex]</a><br />
        </p>
     </div>
 </div>
