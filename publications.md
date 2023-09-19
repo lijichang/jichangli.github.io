@@ -85,6 +85,19 @@ You can also browse my <a href="https://scholar.google.com/citations?user=b8K5vc
     <a name='Journal'></a>Journal
 </h3>
 
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Adaptive Betweenness Clustering for Semi-Supervised Domain Adaptation</strong><br />
+          <b>Jichang Li</b>, Guanbin Li, and Yizhou Yu<br />
+          To appear in IEEE Transaction on Image Processing, 2023 (TIP2023)<br />
+           <a href="">[PDF]</a>
+          <a href="">[BibTex]</a><br />
+       </p>
+    </div>
+</div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
